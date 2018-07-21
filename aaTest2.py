@@ -1,5 +1,4 @@
 # -*- coding: euc-kr -*-
-# Import data - 조대협블러그수정한글
 
 #import tensorflow as tf
 
@@ -9,3 +8,4 @@ print("hello------------------")
 print("done")
 print("add-line-in-eclipse-4-new-push")
 print("add-line-github5")
+print("add-line-in-eclipse-4-new-push6")
