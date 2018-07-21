@@ -1,5 +1,5 @@
 # -*- coding: euc-kr -*-
-# Import data - 조대협의블로그
+# Import data - 횁쨋쨈챘횉첫��횉쨘챠쨌횓짹횞
 
 #import tensorflow as tf
 
@@ -7,3 +7,4 @@ print("hello")
 # Create the model
 #x = tf.placeholder(tf.float32, [None, 784])
 print("done")
+print("hello-this-line-added-in-github")
