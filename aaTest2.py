@@ -1,5 +1,5 @@
 # -*- coding: euc-kr -*-
-# Import data - Á¶´ëÇùÀÇºí·Î±×
+# Import data - ì¡°ëŒ€í˜‘ë¸”ëŸ¬ê·¸ìˆ˜ì •í•œê¸€
 
 #import tensorflow as tf
 
@@ -7,4 +7,5 @@ print("hello------------------")
 # Create the model
 #x = tf.placeholder(tf.float32, [None, 784])
 print("done")
-printf("add-line-in-eclipse-4-new-push")
+print("add-line-in-eclipse-4-new-push")
+print("add-line-github5")
