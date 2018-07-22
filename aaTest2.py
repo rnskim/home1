@@ -5,5 +5,5 @@
 print("hello------------------")
 # Create the model
 #x = tf.placeholder(tf.float32, [None, 784])
-print("modfiy-eclipse-11")
+print("modfiy-eclipse-12")
 
